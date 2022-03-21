@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimplyJuanjo, recent graduate Pharmacist from University of Santiago de Compostela and AI student at https://IIA.es and Udacity/Coursera
+- 👋 Hi, I’m @SimplyJuanjo, graduate Pharmacist from University of Santiago de Compostela, also Deep Learning Graduate at Udacity and AI student at https://IIA.es and Coursera
 - 👀 I’m interested in Healthcare, Pharma Science, Biomedical Engineering, Brain-Computer Interfaces, Neuroscience, ML, DL, Psychology and Psychedelics
 - 🌱 I’m currently learning Intermediate Python for Data Science & Machine Learning and Artificial Intelligence for Business
 - 💞️ I’m looking to collaborate on neuroscience research, ML research and entrepreneurship with both. 
